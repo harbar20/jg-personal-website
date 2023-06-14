@@ -1,13 +1,13 @@
 #LinkedIn
 #https://www.linkedin.com/in/{{LinkedInUsername}}/
-linkdin_username: /
+linkedin_username: harbar20
 
 #GitHub
 #https://github.com/{{GitHubUsername}}
-github_username: /
+github_username: harbar20
 
 #https://github.com/{{GitHubUsername}}/{{GitHubRepo}}
-github_repo: /
+github_repo: jg-personal-website
 
 #The email you'd like people to contact you with.
-email: /
+email: hiyer@jahnelgroup.com

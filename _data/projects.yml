@@ -1,13 +1,13 @@
 #If you have worked on relevant projects talk about them here
 
-- name: Project 1
-  description: A few sentences describing your project.
+- name: Porygon
+  description: A Discord bot that analyzes Pokemon Showdown battles, with web dashboard. 
+  stack: TypeScript, PostgreSQL, Prisma, Next.js, Heroku, AWS EC2, Vercel
 
-- name: Project 2
-  description: A few sentences describing your project.
+- name: Brigham and Women's Hospital Map Application
+  description: Created in CS 3733 Software Engineering at WPI with a 10-person team with Agile Scrum methodology. A map editor loaded with features for the hospital.
+  stack: Java, JavaFX, PostgreSQL, AWS
 
-- name: Project 3
-  description: A few sentences describing your project.
-
-- name: Project 4
-  description: A few sentences describing your project.
+- name: autoplaylist
+  description: A Slack app that automatically adds songs sent to a channel to a playlist on all major music streaming platforms.
+  stack: Python, Flask
